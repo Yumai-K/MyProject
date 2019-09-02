@@ -18,3 +18,4 @@
 
 ## 2. 데이터 병합
 1. [CSV 데이터 병합하기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/merge_csv_data.ipynb)
+2. [데이터 정제](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/refine_csv.ipynb)
