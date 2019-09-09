@@ -20,3 +20,8 @@
 1. [CSV 데이터 병합하기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/merge_csv_data.ipynb)
 2. [데이터 정제 : 불필요 컬럼 제거](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/refine_csv.ipynb)
 3. [데이터 정제 : contents 컬럼 내부 정제](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/refine_contents.ipynb)
+
+## 3. 신경망 입력 데이터 만들기
+1. 댓글내용중 단어별 빈도수를 기준으로 정렬한 데이터 만들기
+ - [Word2idx - Step01]
+ - [Word2idx - Step02]
