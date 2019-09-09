@@ -23,5 +23,5 @@
 
 ## 3. 신경망 입력 데이터 만들기
 1. 댓글내용중 단어별 빈도수를 기준으로 정렬한 데이터 만들기
- - [Word2idx - Step01]
- - [Word2idx - Step02]
+      - [Word2idx - Step01]
+      - [Word2idx - Step02]
