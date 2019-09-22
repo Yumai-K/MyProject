@@ -17,6 +17,10 @@
 4. [영화 평점 랭킹에서 Reple 가져오기(영화 코드값 활용)](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/movie_reple_crawling_0830.ipynb)
 
 ## 2. 데이터 병합
+  - 영화별로 크롤링된 데이터 하나의 csv파일로 병합
+  - 영화제목(movie), 댓글내용(contents), 평점(score)를 제외한 컬럼 제거
+  - 댓글내용(contents)에서 한글을 제외한 값들 제거
+  
 1. [CSV 데이터 병합하기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/merge_csv_data.ipynb)
 2. [데이터 정제 : 불필요 컬럼 제거](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/refine_csv.ipynb)
 3. [데이터 정제 : contents 컬럼 내부 정제](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/refine_contents.ipynb)
