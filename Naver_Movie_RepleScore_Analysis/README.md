@@ -29,3 +29,7 @@
 1. 전체 댓글의 단어별 빈도수를 기준으로 정렬한 데이터 만들기
       - [Word2idx - Step01](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/make_word2idx_step01.ipynb)
       - [Word2idx - Step02](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/make_word2idx_step02.ipynb)
+
+## 4. 학습 모델 및 입출력 결과 테스트
+1. 데이터 입,출력 및 테스트 프로그램
+      - [model_test]()
