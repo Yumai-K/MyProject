@@ -3,7 +3,7 @@
 ## 1. 데이터 클롤링 및 정제
 
  #### 크롤링 하기
-  (1) [영화코드값으로 영화 댓글 및 평점 가져오기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/movie_reple_crawling_final.ipynb)
+  *1 [영화코드값으로 영화 댓글 및 평점 가져오기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/movie_reple_crawling_final.ipynb)
  #### 크롤링 데이터 병합 및 정제
   (2) [코드값 별로 분류된 데이터 1개 csv파일로 병합](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/merge_csv_data.ipynb)
   
