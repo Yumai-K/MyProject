@@ -24,6 +24,6 @@
       - [Word2idx - Step02](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/make_word2idx_step02.ipynb)
 
   #### 학습 모델 생성 및 테스트
-  2)[신경망 모델 만들기(create_model)]()
+  2)[신경망 모델 만들기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/create_model.ipynb)
   
-  3)[모델 테스트(model_test)]()
+  3)[모델 테스트](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/model_test.ipynb)
