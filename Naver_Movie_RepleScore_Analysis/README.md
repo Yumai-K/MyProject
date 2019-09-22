@@ -2,7 +2,8 @@
 
 ## 1. 데이터 크롤링
 
-### [결과 : 영화코드값으로 모든영화 Reple 가져오기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/movie_reple_crawling_final.ipynb)
+###크롤링 최종 코드:[결과 : 영화코드값으로 모든영화 Reple 가져오기](https://github.com/Yumai-K/MyProject/blob/master/Naver_Movie_RepleScore_Analysis/movie_reple_crawling_final.ipynb)
+###크롤링 최종 데이터 : 
   - url 영화 코드값 사용
   - 속도문제해결 위해 : ThreadPoll 사용
   - 정규화 사용 데이터 타겟팅 및 정제
